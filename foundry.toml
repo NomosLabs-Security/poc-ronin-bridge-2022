@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Ronin Bridge exploit block
+fork_block_number = 14442840
